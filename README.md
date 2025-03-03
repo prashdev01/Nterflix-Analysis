@@ -2,6 +2,7 @@
 
 ## 📌 Project Overview
 This project analyzes Netflix content data to uncover insights into the platform's movie and TV show catalog. Using Tableau, we create interactive visualizations to explore trends, genres, and distribution across different aspects such as release years, ratings, and countries.
+![alt text](<Snapshots/Screenshot 2025-03-02 235036.png>)
 
 ## 📂 Dataset
 - **Source:** Kaggle Netflix dataset
